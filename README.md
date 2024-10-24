@@ -5,7 +5,7 @@
 - Django     
 - Django rest-framework     
 - Json     
-- Telebot
+- Telebot     
 Используя Django работал со следующими базами данных:    
 - PostgreSQL    
 - Sqlite    
