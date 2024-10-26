@@ -3,8 +3,7 @@
 Закончил обучение на курсе Python разработчик от SkillFacotry.     
 Мой стэк:      
 - Django     
-- Django rest-framework     
-- Json     
+- Rest API        
 - Telebot
           
 Используя Django работал со следующими базами данных:    
