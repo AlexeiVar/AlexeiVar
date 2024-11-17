@@ -5,6 +5,7 @@
 - Django     
 - Rest API        
 - Telebot
+- Celery
           
 Используя Django работал со следующими базами данных:    
 - PostgreSQL    
