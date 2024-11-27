@@ -6,6 +6,7 @@
 - Rest API        
 - Telebot
 - Celery
+- tkinter
           
 Используя Django работал со следующими базами данных:    
 - PostgreSQL    
@@ -16,4 +17,5 @@
 В качестве примеров испльзования стэка привожу:                    
 - AnnouncementBoard - форум написанный на Django, так же использует celery реализации недельной задачи по отсылке писем                    
 - FSTRPereval - Rest API написанный на Django
-- MosZooQuizTeleBot - Бот для телеграма написанный используя Telebot          
+- MosZooQuizTeleBot - Бот для телеграма написанный используя Telebot
+- Currency-converter - Программа с графическим интерфейсом написанный на tkinter для перевода валют.
