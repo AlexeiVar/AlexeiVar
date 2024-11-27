@@ -6,7 +6,7 @@
 - Rest API        
 - Telebot
 - Celery
-- tkinter
+- Tkinter
           
 Используя Django работал со следующими базами данных:    
 - PostgreSQL    
