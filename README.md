@@ -10,7 +10,7 @@
 - Tkinter
 - FastAPI
           
-Используя Django работал со следующими базами данных:    
+ Работал со следующими базами данных:    
 - PostgreSQL    
 - Sqlite
             
@@ -21,4 +21,4 @@
 - FSTRPereval - REST API написанный на Django, доступен сайт: https://alexeivar.pythonanywhere.com
 - MosZooQuizTeleBot - Бот для телеграма написанный используя Telebot
 - Currency-converter - Программа с графическим интерфейсом написанная на tkinter для перевода валют.
-- WeatherSite - Сайт написанный на Django, который позволяет получить прогноз погоды на неделю, доступен сайт: https://alexeivarweather.pythonanywhere.com/                              
+- WeatherSite - Сайт написанный на Django, использующий два стороних API, который позволяет получить прогноз погоды на неделю, доступен сайт: https://alexeivarweather.pythonanywhere.com/                              
