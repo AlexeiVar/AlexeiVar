@@ -8,6 +8,7 @@
 - Telebot
 - Celery
 - Tkinter
+- FastAPI
           
 Используя Django работал со следующими базами данных:    
 - PostgreSQL    
